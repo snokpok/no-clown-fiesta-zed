@@ -1,0 +1,7 @@
+{
+  "name": "No Clown Fiesta",
+  "version": "0.0.1",
+  "authors": ["Vincent Vu <v@vuvincent.com>"],
+  "description": "Fork of the original No Clown Fiesta theme from Neovim for Zed.",
+  "repository": "https://github.com/snokpok/no-clown-fiesta-zed"
+}
